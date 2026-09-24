@@ -1,0 +1,55 @@
+{
+  "main": [
+    {
+      "role": "Polymeric Materials Engineering Intern",
+      "org": "NASA Glenn Research Center",
+      "when": "Jun — Aug 2026",
+      "detail": "Characterized degradation of aerospace wire insulation and independently operated TGA, DSC, FTIR, Raman, ASTM E595 outgassing, LIBS, and rheological instrumentation. First-author publication, co-author on a lunar habitation composites study, and now leading a follow-on effort that came out of my failure assessment."
+    },
+    {
+      "role": "Lead Ground Penetrating Radar Engineer",
+      "org": "Husky Satellite Lab, University of Washington",
+      "when": "Mar 2026 — present",
+      "detail": "Designing the GPR payload for HS-3's lunar lava tube mapping mission."
+    },
+    {
+      "role": "Project Lead",
+      "org": "Boeing CFRP Wing Spoiler Quality Recovery Project",
+      "when": "Sep — Dec 2025",
+      "detail": "Led a team of five through RCA and NDT on composite manufacturing defects; developed acceptance criteria and presented to Boeing engineers."
+    },
+    {
+      "role": "Summer Research Intern",
+      "org": "AI Corporate Training Center, Seoul National University",
+      "when": "Jul — Aug 2025",
+      "detail": "Next-generation computer memory research under Professor Soojung Ryu. Comparative LPDDR/GDDR analysis and chip-to-chip interconnect design."
+    },
+    {
+      "role": "Summer Camp Manager",
+      "org": "Seoul Foreign School",
+      "when": "Jun — Jul 2024",
+      "detail": "Supervised a team of 30+ counselors. Ran conflict resolution and set communication protocols across a diverse group. Counselor the previous summer."
+    }
+  ],
+  "otherNote": "Before university I spent two years getting things across to people who weren't already experts — on camera, in a classroom, and in print. It's the same instinct behind the documentation work I do now.",
+  "other": [
+    {
+      "role": "Media Counselor",
+      "org": "Seoul Foreign School Summer Camp",
+      "when": "Jun — Jul 2023",
+      "detail": "Made the camp's photo and video content and ran its publications, so families could see what the program actually looked like."
+    },
+    {
+      "role": "Video Editor",
+      "org": "CultureComplex (CULCOM)",
+      "when": "Apr — Sep 2023",
+      "detail": "Edited and produced five to seven podcast videos a week for the channel in Final Cut Pro and Vrew, on a standing weekly deadline."
+    },
+    {
+      "role": "English & Mathematics Teacher",
+      "org": "Top Class Academy, Seodaemun-gu, Seoul",
+      "when": "Apr — Sep 2023",
+      "detail": "Taught MYP and IB mathematics to high school students. Built a summer-intensive English curriculum for middle schoolers around social and natural phenomena."
+    }
+  ]
+}

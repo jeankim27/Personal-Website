@@ -1,0 +1,218 @@
+[
+  {
+    "id": "glenn",
+    "title": "Degradation of aerospace wire insulation",
+    "org": "NASA Glenn Research Center",
+    "status": "wip",
+    "dateLabel": "Jun 2026 — present",
+    "tags": [
+      "polymers",
+      "characterization",
+      "space environment"
+    ],
+    "embargo": true,
+    "summary": "Characterized how aerospace wire insulation degrades under heat and vacuum, and built the testing procedure that made the data readable outside the materials group.",
+    "problem": "Wire insulation on aerospace systems ages in ways that single-number datasheet values don't capture, and the resulting data was hard for non-materials engineers to act on.",
+    "approach": "Ran TGA, ASTM E595 outgassing, vacuum-oven exposure, FTIR, and Raman across the material set; resolved fiberglass, PTFE, and PVA binder chemistries; then wrote a standardized testing and documentation procedure and the SOPs behind it.",
+    "outcome": "Results became usable by non-materials audiences, and the characterization work fed directly into the trade study and failure assessment that followed.",
+    "links": [],
+    "gallery": [
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Outgassing run setup"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "FTIR peak assignments"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Binder chemistry notes"
+      }
+    ],
+    "log": [
+      {
+        "date": "2026-08",
+        "note": "SOPs for TGA, outgassing, and specimen photography finalized."
+      },
+      {
+        "date": "2026-07",
+        "note": "Binder chemistries resolved across the fiberglass and PTFE set."
+      }
+    ]
+  },
+  {
+    "id": "ml",
+    "title": "Color analysis of polymers by machine learning",
+    "org": "NASA Glenn Research Center",
+    "status": "wip",
+    "dateLabel": "2026 — in review",
+    "tags": [
+      "polymers",
+      "machine learning",
+      "characterization"
+    ],
+    "embargo": true,
+    "summary": "Extended an existing polymer color-analysis approach to complex materials under extreme heat, with new models reaching 15% higher accuracy. First-author manuscript.",
+    "problem": "Color change is a cheap, fast proxy for thermal degradation, but prior models only handled simple systems and broke down on complex materials at high temperature.",
+    "approach": "Built and trained new models against characterization data from extreme-heat exposure, then validated against instrumented measurements.",
+    "outcome": "15% accuracy improvement over the prior approach. Manuscript in NASA review, headed to a peer-reviewed journal.",
+    "links": [],
+    "gallery": [
+      {
+        "kind": "plot",
+        "src": null,
+        "caption": "Model accuracy comparison"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Feature selection notes"
+      },
+      {
+        "kind": "pub",
+        "src": null,
+        "caption": "Manuscript draft"
+      }
+    ],
+    "log": [
+      {
+        "date": "2026-09",
+        "note": "In NASA publication review."
+      },
+      {
+        "date": "2026-08",
+        "note": "New model hit 15% accuracy gain over baseline."
+      }
+    ]
+  },
+  {
+    "id": "trade",
+    "title": "Polymer trade study and thruster failure assessment",
+    "org": "NASA Glenn Research Center",
+    "status": "wip",
+    "dateLabel": "2026 — leading follow-on",
+    "tags": [
+      "polymers",
+      "space environment",
+      "analysis"
+    ],
+    "embargo": true,
+    "summary": "Ranked alternative polymers by cost, manufacturability, and outgassing, and delivered a materials failure assessment on thruster structural integrity that changed the project's scope.",
+    "problem": "Material selection was being made without a common basis for comparing cost against space-environment performance, and a structural integrity question on the thruster had no empirical answer.",
+    "approach": "Built a trade study across candidate polymers, coordinated external testing and manufacturer communication on chemistry and qualification methods, and assembled the failure assessment from the characterization data.",
+    "outcome": "Presented to NASA and industry-partner engineers. The data drove a change in project scope and launched a follow-on effort that I now lead.",
+    "links": [],
+    "gallery": [
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Trade study weighting"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Failure assessment outline"
+      },
+      {
+        "kind": "plot",
+        "src": null,
+        "caption": "Candidate comparison"
+      }
+    ],
+    "log": [
+      {
+        "date": "2026-08",
+        "note": "Scope change approved. Follow-on effort started."
+      }
+    ]
+  },
+  {
+    "id": "gpr",
+    "title": "Ground penetrating radar payload, HS-3",
+    "org": "Husky Satellite Lab · University of Washington",
+    "status": "wip",
+    "dateLabel": "Mar 2026 — present",
+    "tags": [
+      "instrumentation",
+      "space environment"
+    ],
+    "embargo": false,
+    "summary": "Leading design of the GPR payload for HS-3, a mission to detect and map habitable lava tubes beneath the lunar surface.",
+    "problem": "Lunar lava tubes are a candidate for habitation, but mapping them requires a radar payload that fits a student-built satellite's mass, power, and survivability budget.",
+    "approach": "Currently in design. Working the antenna and payload architecture against the mission's constraints, with attention to how the materials hold up through launch and the lunar thermal cycle.",
+    "outcome": "In design. Hardware and test results will be posted as the build progresses.",
+    "links": [],
+    "gallery": [
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Payload architecture sketch"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Antenna sizing"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Constraint budget"
+      }
+    ],
+    "log": [
+      {
+        "date": "2026-09",
+        "note": "Design phase. Notebook pages up, hardware to follow."
+      },
+      {
+        "date": "2026-03",
+        "note": "Took over as lead GPR engineer."
+      }
+    ]
+  },
+  {
+    "id": "boeing",
+    "title": "CFRP wing spoiler quality recovery",
+    "org": "Boeing · University of Washington",
+    "status": "done",
+    "dateLabel": "Sep — Dec 2025",
+    "tags": [
+      "composites",
+      "characterization",
+      "analysis"
+    ],
+    "embargo": false,
+    "summary": "Led a team of five through root-cause analysis and NDT of manufacturing defects in carbon fiber wing spoilers, and set the acceptance criteria that came out of it.",
+    "problem": "Manufacturing defects were appearing in CFRP wing spoilers without a clear root cause or an agreed standard for what counted as acceptable.",
+    "approach": "Ran root-cause analysis and non-destructive testing across the affected parts, then worked the findings into acceptance criteria the team could defend.",
+    "outcome": "Criteria developed and results presented directly to Boeing engineers.",
+    "links": [],
+    "gallery": [
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "RCA fishbone"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "NDT inspection log"
+      },
+      {
+        "kind": "notebook",
+        "src": null,
+        "caption": "Acceptance criteria draft"
+      }
+    ],
+    "log": [
+      {
+        "date": "2025-12",
+        "note": "Presented findings to Boeing engineers."
+      }
+    ]
+  }
+]

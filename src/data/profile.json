@@ -1,0 +1,48 @@
+{
+  "name": "Jean Kim",
+  "firstName": "Jean",
+  "lastName": "Kim",
+  "heroBlurb": "I study what materials do when the environment stops being forgiving, so the structures built from them can be trusted off Earth. I want to build the things that go looking for where we came from.",
+  "heroSub": "Materials Science & Engineering at the University of Washington, class of 2027. Applying to PhD programs in aerospace materials and deployable space structures.",
+  "portrait": "/media/portrait.jpg",
+  "cv": "/JEAN_KIM_CV.pdf",
+  "cvNote": "One page, updated September 2026.",
+  "about": [
+    "I'm a materials science and engineering student at the University of Washington, graduating June 2027. I grew up in Seoul and came to Seattle for the materials program.",
+    "Most of what I know came from being handed an instrument and a question and working out the rest. At NASA Glenn that meant learning TGA, DSC, FTIR, Raman, LIBS, and outgassing well enough to run them alone by the end of the summer, and then writing the procedures so the next person wouldn't have to start where I did.",
+    "That's the part I'd want to keep doing in a PhD: take a materials question nobody has a clean answer to, build the measurement, and write down what it means clearly enough to be useful to someone in a different specialty."
+  ],
+  "skills": [
+    {
+      "k": "Characterization",
+      "v": "TGA, DSC, FTIR, Raman, LIBS, XRD, SEM/EDS, rheology"
+    },
+    {
+      "k": "Space environment",
+      "v": "ASTM E595 outgassing, vacuum-oven exposure, C-Therm"
+    },
+    {
+      "k": "Processing",
+      "v": "Injection molding, thermoplastic viscosity"
+    },
+    {
+      "k": "Computing",
+      "v": "Java, Python, MATLAB, ANSYS"
+    }
+  ],
+  "awards": [
+    "James I. Mueller Scholarship, 2025–26",
+    "Purple & Gold Four-Year Scholarship",
+    "Dean's List — Autumn 2023, Spring 2025, Autumn 2025"
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jean-kim-2701"
+    },
+    {
+      "label": "jk2701@uw.edu",
+      "url": "mailto:jk2701@uw.edu"
+    }
+  ]
+}

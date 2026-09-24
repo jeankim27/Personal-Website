@@ -1,0 +1,25 @@
+{
+  "heading": "Things that got me here",
+  "feature": {
+    "src": "/media/origins/cassini.jpg",
+    "alt": "Cassini at Saturn",
+    "credit": "Cassini at Saturn · NASA/JPL-Caltech"
+  },
+  "items": [
+    {
+      "h": "Cassini at Saturn",
+      "s": "NASA/JPL-Caltech, 1997–2017",
+      "p": "It flew for twenty years and then fell into the planet on purpose, so it wouldn't contaminate a moon that might hold life. Every part of it had to survive a decade before it mattered."
+    },
+    {
+      "h": "Rocky, from Project Hail Mary",
+      "s": "Andy Weir, 2021",
+      "p": "An engineer who solves everything with materials, improvisation, and a willingness to be wrong out loud."
+    },
+    {
+      "h": "Where Do We Come From? What Are We? Where Are We Going?",
+      "s": "Paul Gauguin, 1897",
+      "p": "The question I'd like my work to sit underneath."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "lede": "Both from my 2026 term at NASA Glenn. Links go live as each clears review.",
+  "items": [
+    {
+      "role": "First author",
+      "status": "In NASA review",
+      "url": null,
+      "title": "Machine learning color analysis of polymers under extreme-heat exposure",
+      "note": "Extended prior polymer color-analysis work to complex material systems under extreme-heat environments, implementing new models that improved accuracy by 15%. Manuscript authored for submission to a peer-reviewed journal."
+    },
+    {
+      "role": "Co-author",
+      "status": "Submitted — SAMPE",
+      "url": null,
+      "title": "Lunar habitation composites study",
+      "note": "Contributed DSC and outgassing characterization to a study of composite systems for lunar habitation structures."
+    }
+  ],
+  "reportsNote": "Several technical reports from NASA Glenn are still in the release process. They'll be listed here as they clear."
+}

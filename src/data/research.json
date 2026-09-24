@@ -1,0 +1,25 @@
+{
+  "heading": "What I work on",
+  "lede": "Multifunctional materials for extreme environments. In practice that means measuring how polymer-matrix systems change under thermal and vacuum load, and turning that into something a structures team can design against.",
+  "pillars": [
+    {
+      "h": "Space-environment durability",
+      "p": "Thermal degradation, ASTM E595 outgassing, and vacuum exposure of aerospace polymers. Which materials survive, how fast they change, and what that means for a mission lifetime. Radiation effects are the part I've started on and want to take further."
+    },
+    {
+      "h": "Polymer-matrix composites",
+      "p": "Root-cause and non-destructive evaluation of CFRP, plus thermoplastic processing and rheology on PEEK, PAEK, PBI, PTFE, and PI systems."
+    },
+    {
+      "h": "Characterization at scale",
+      "p": "Machine learning applied to polymer characterization data, so property prediction doesn't stall at the throughput of one person reading spectra."
+    }
+  ],
+  "fit": {
+    "h": "Why this direction",
+    "ps": [
+      "The labs I want to join build ultra-thin composite structures that fold, deploy, and hold their shape in orbit. The mechanics of those structures are well studied. The materials question underneath them is less settled: how a polymer matrix behaves after months of thermal cycling and vacuum, and how you choose the right system for a specific mission instead of a generic one.",
+      "That's the half I've worked on. At NASA Glenn I characterized degradation in aerospace polymer systems and built the testing and documentation procedure that made the results usable by people who aren't materials engineers. On the Boeing spoiler project I ran root-cause and NDT work on carbon fiber laminates. I'd like to bring that to a structures group."
+    ]
+  }
+}

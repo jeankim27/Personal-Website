@@ -1,0 +1,106 @@
+{
+  "lede": "Books, knitting, and a camera.",
+  "tabs": [
+    {
+      "key": "books",
+      "label": "Books",
+      "kind": "books",
+      "groups": [
+        {
+          "h": "Non-fiction",
+          "items": [
+            {
+              "t": "Title",
+              "a": "Author",
+              "n": "One line on why it stuck with you."
+            },
+            {
+              "t": "Title",
+              "a": "Author",
+              "n": "One line on why it stuck with you."
+            },
+            {
+              "t": "Title",
+              "a": "Author",
+              "n": "One line on why it stuck with you."
+            }
+          ]
+        },
+        {
+          "h": "Fiction",
+          "items": [
+            {
+              "t": "Title",
+              "a": "Author",
+              "n": "One line on why it stuck with you."
+            },
+            {
+              "t": "Title",
+              "a": "Author",
+              "n": "One line on why it stuck with you."
+            },
+            {
+              "t": "Title",
+              "a": "Author",
+              "n": "One line on why it stuck with you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "knitting",
+      "label": "Knitting",
+      "kind": "gallery",
+      "items": [
+        {
+          "src": null,
+          "c": "WIP — caption goes here"
+        },
+        {
+          "src": null,
+          "c": "WIP — caption goes here"
+        },
+        {
+          "src": null,
+          "c": "WIP — caption goes here"
+        },
+        {
+          "src": null,
+          "c": "WIP — caption goes here"
+        }
+      ]
+    },
+    {
+      "key": "photography",
+      "label": "Photography",
+      "kind": "gallery",
+      "items": [
+        {
+          "src": null,
+          "c": "Caption goes here"
+        },
+        {
+          "src": null,
+          "c": "Caption goes here"
+        },
+        {
+          "src": null,
+          "c": "Caption goes here"
+        },
+        {
+          "src": null,
+          "c": "Caption goes here"
+        },
+        {
+          "src": null,
+          "c": "Caption goes here"
+        },
+        {
+          "src": null,
+          "c": "Caption goes here"
+        }
+      ]
+    }
+  ]
+}
