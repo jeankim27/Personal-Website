@@ -1,10 +1,9 @@
 {
   "heading": "What I work on",
-  "lede": "Multifunctional materials for extreme environments. In practice that means measuring how polymer-matrix systems change under thermal and vacuum load, and turning that into something a structures team can design against.",
-  "pillars": [
+  "lede": "Multifunctional materials for extreme environments."
     {
       "h": "Space-environment durability",
-      "p": "Thermal degradation, ASTM E595 outgassing, and vacuum exposure of aerospace polymers. Which materials survive, how fast they change, and what that means for a mission lifetime. Radiation effects are the part I've started on and want to take further."
+      "p": "Thermal degradation, ASTM E595 outgassing, and vacuum exposure of aerospace polymers. Which materials survive, how fast they change, and what that means for a mission lifetime."
     },
     {
       "h": "Polymer-matrix composites",
