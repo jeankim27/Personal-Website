@@ -10,19 +10,14 @@
           "h": "Non-fiction",
           "items": [
             {
-              "t": "Title",
-              "a": "Author",
-              "n": "One line on why it stuck with you."
+              "t": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
+              "a": "Mitch Albom, 1997",
+              "n": "Morrie Schwartz, dying of ALS, teaches one final course with a single student. The subject is how to live."
             },
             {
-              "t": "Title",
-              "a": "Author",
-              "n": "One line on why it stuck with you."
-            },
-            {
-              "t": "Title",
-              "a": "Author",
-              "n": "One line on why it stuck with you."
+              "t": "When Breathe Becomes Air",
+              "a": "Paul Kalanithi, 2016",
+              "n": "A neurosurgeon writes about what makes a life worth living while he is dying of lung cancer."
             }
           ]
         },
@@ -30,19 +25,24 @@
           "h": "Fiction",
           "items": [
             {
-              "t": "Title",
-              "a": "Author",
-              "n": "One line on why it stuck with you."
+              "t": "소년이 온다 (Human Acts)",
+              "a": "한강 (Han Kang), 2014",
+              "n": "1980 Gwangju Uprising. 동호야..."
             },
             {
-              "t": "Title",
-              "a": "Author",
-              "n": "One line on why it stuck with you."
+              "t": "진이, 지니",
+              "a": "정유정 (Jeong You-jeong), 2019",
+              "n": "A story about understanding trauma and healing from it, even when the one hurting isn't human."
             },
             {
-              "t": "Title",
-              "a": "Author",
-              "n": "One line on why it stuck with you."
+              "t": "My Brilliant Friend (Neapolitan Novels)",
+              "a": "Elena Ferrante, 2011",
+              "n": "Four novels following girlhood in Naples, Italy across sixty years."
+            },
+            {
+              "t": "Project Hail Mary",
+              "a": "Andy Weir, 2021",
+              "n": "Also at the top of this page, for the same reason."
             }
           ]
         }
