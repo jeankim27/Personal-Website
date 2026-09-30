@@ -5,14 +5,14 @@
       "role": "First author",
       "status": "In NASA review",
       "url": null,
-      "title": "Machine learning color analysis of polymers under extreme-heat exposure",
-      "note": "Extended prior polymer color-analysis work to complex material systems under extreme-heat environments, implementing new models that improved accuracy by 15%. Manuscript authored for submission to a peer-reviewed journal."
+      "title": "Non-Destructive Prediction of Vacuum Outgassing Total Mass Loss in Multilayer Aerospace Insulation Using Quantitative Color Analysis and Machine Learning",
+      "note": "Extended prior polymer color-analysis machine learning research to complex materials under extreme-heat environments; collaborated with a software engineering intern to implement new models, raising pass/fail prediction accuracy from 83.3% to 93.1% over the prior neural-network approach, and authored a scientific paper for submission to a major journal."
     },
     {
-      "role": "Co-author",
+      "role": "Named author",
       "status": "Submitted — SAMPE",
       "url": null,
-      "title": "Lunar habitation composites study",
+      "title": "Regolith as In-Situ Nucleating Agents in Poly(3-Hydroxybutyrate) Composites for In-Space Manufacturing",
       "note": "Contributed DSC and outgassing characterization to a study of composite systems for lunar habitation structures."
     }
   ],
