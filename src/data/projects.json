@@ -193,19 +193,9 @@
     "links": [],
     "gallery": [
       {
-        "kind": "notebook",
-        "src": null,
-        "caption": "RCA fishbone"
-      },
-      {
-        "kind": "notebook",
-        "src": null,
-        "caption": "NDT inspection log"
-      },
-      {
-        "kind": "notebook",
-        "src": null,
-        "caption": "Acceptance criteria draft"
+        "kind": "presentation",
+        "src":  "/media/projects/{glenn,ml,trade,gpr,boeing}/Final Presentation 2",
+        "caption": "Presentation delivered"
       }
     ],
     "log": [
