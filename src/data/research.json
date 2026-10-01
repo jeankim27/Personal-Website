@@ -1,6 +1,7 @@
 {
   "heading": "What I work on",
-  "lede": "Multifunctional materials for extreme environments."
+  "lede": "Multifunctional materials for extreme environments.",
+  "pillars": [
     {
       "h": "Space-environment durability",
       "p": "Thermal degradation, ASTM E595 outgassing, and vacuum exposure of aerospace polymers. Which materials survive, how fast they change, and what that means for a mission lifetime."
